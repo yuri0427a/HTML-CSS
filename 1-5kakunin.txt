@@ -1,0 +1,8 @@
+○問1　<h3>タグ
+○問2　3. 幅と高さが指定できる
+△問3　リセットタグをつける
+　　　　 * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }

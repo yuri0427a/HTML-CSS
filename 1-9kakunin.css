@@ -1,0 +1,14 @@
+
+body{
+	position: relative;
+}
+
+.position{
+	position: absolute;
+	right: 40px;
+	top: 100px;
+}
+
+.fa-facebook-f, .fa-twitter {
+	font-size: 32px;
+}

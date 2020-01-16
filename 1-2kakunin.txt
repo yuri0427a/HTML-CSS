@@ -1,0 +1,7 @@
+○問1　<body>タグ内
+○問2　3.<a href=""></a>
+○問3  2.<meta charset="UTF-8">
+○問4　1. <link rel="stylesheet" href="">
+○問5　2. <div class="content"></div>
+　　　　<div class="content"></div>
+　　　　<div class="content"></div>

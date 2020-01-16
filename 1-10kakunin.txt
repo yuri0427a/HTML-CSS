@@ -1,0 +1,4 @@
+×問1　タブレット対応、スマートフォン対応⇒すべて
+○問2　initial-scale=1.0
+　　　width=device-width
+○問3　@media screen and (max-width: 768px)

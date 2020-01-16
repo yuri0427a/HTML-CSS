@@ -1,0 +1,8 @@
+×問1　2. 文字を入れるための箱
+○問2　2. width, height
+○問3　4. px
+　　 6. %
+○問4　<div>
+       <div></div>
+       <div></div>
+     </div>
